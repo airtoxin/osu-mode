@@ -8,6 +8,11 @@ import com.intellij.ui.layout.titledRow
 import java.awt.SystemColor.text
 import javax.swing.JLabel
 
+/*
+    实现设置界面
+    Implementation of the settings interface
+ */
+
 class OsuModeConfigurable: BoundConfigurable(
     displayName = "Osu! Mode",
     "osu mode"
@@ -22,7 +27,7 @@ class OsuModeConfigurable: BoundConfigurable(
     private lateinit var explosionLabel: CellBuilder<JLabel>
     private lateinit var explosionComment: CellBuilder<JLabel>
 
-    private var panel = panel {
+    private var panel = panel { // Kotlin UI DSL
 
         titledRow("Primary") {
             row {
