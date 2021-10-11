@@ -140,7 +140,7 @@ class OsuModeConfigurable: BoundConfigurable(
 
     private fun explosionIsValid(): Boolean {
         val text = explosion.component.text
-        return (text.toInt() in 0..10 && text != "")
+        return (text.toInt() in 1..10 && text != "")
     }
 
 }
