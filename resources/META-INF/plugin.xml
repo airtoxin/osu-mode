@@ -1,5 +1,5 @@
 <idea-plugin>
-  <id>com.com.github.nthily</id>
+  <id>com.github.nthily</id>
   <name>Osu!-Mode</name>
   <version>1.0</version>
   <vendor email="nthily@outlook.com" url="https://com.github.com/Nthily">Nthily</vendor>
