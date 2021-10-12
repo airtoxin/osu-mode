@@ -17,6 +17,12 @@ class AppSettingsState: PersistentStateComponent<AppSettingsState> {
     var enableMode = true
     var enableCursorExplosions = true
     var enableComboCounter = true
+
+    var enableInputSound = true
+    var enableBreakSound = true
+    var enableOpenProjectSound = true
+    var enableCloseProjectSound = true
+
     var explosion = "6"
 
     companion object {

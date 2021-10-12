@@ -1,5 +1,5 @@
 <idea-plugin>
-  <id>com.com.github.nthily</id>
+  <id>com.github.nthily</id>
   <name>Osu!-Mode</name>
   <version>1.0</version>
   <vendor email="nthily@outlook.com" url="https://com.github.com/Nthily">Nthily</vendor>
@@ -16,6 +16,10 @@
   <!-- please see https://plugins.jetbrains.com/docs/intellij/plugin-compatibility.html
        on how to target different products -->
   <depends>com.intellij.modules.platform</depends>
+
+  <applicationListeners>
+    <listener class="com.github.nthily.listener.OsuModeProjectListener" topic="com.intellij.openapi.project.ProjectManagerListener"/>
+  </applicationListeners>
 
   <extensions defaultExtensionNs="com.intellij">
 

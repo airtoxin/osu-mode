@@ -17,6 +17,10 @@
        on how to target different products -->
   <depends>com.intellij.modules.platform</depends>
 
+  <applicationListeners>
+    <listener class="com.github.nthily.listener.OsuModeProjectListener" topic="com.intellij.openapi.project.ProjectManagerListener"/>
+  </applicationListeners>
+
   <extensions defaultExtensionNs="com.intellij">
 
     <editorFactoryDocumentListener implementation="com.github.nthily.listener.OsuModeDocumentListener"/>
