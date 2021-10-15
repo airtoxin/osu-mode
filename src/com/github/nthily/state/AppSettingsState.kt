@@ -7,6 +7,11 @@ import com.intellij.openapi.components.State
 import com.intellij.openapi.components.Storage
 import com.intellij.util.xmlb.XmlSerializerUtil
 
+/*
+    存储设置中的值到本地
+    Store the values in the settings locally
+ */
+
 @State(
     name = "osu-mode",
     storages = [Storage("osu-mode.xml")]
@@ -15,15 +20,11 @@ class AppSettingsState: PersistentStateComponent<AppSettingsState> {
 
 
     var enableMode = true
-    var enableCursorExplosions = true
     var enableComboCounter = true
 
-    var enableInputSound = true
-    var enableBreakSound = true
+    var enableKeyboardSound = true
     var enableOpenProjectSound = true
     var enableCloseProjectSound = true
-
-    var explosion = "6"
 
     companion object {
         val instance: AppSettingsState
