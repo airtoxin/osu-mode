@@ -6,6 +6,7 @@ A plugin for Jetbrains IDE, Your code is powerful, unleash it like playing osu!
 
 https://user-images.githubusercontent.com/31311826/137478477-004d64e6-e233-42c7-a6e2-0d94b6af5acd.mp4
 
+<iframe src="//player.bilibili.com/player.html?aid=806051495&bvid=BV1j34y1S7xw&cid=425538795&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 ## Feature
 
