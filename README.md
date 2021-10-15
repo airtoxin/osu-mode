@@ -19,9 +19,10 @@ A plugin for Jetbrains IDE, Your code is powerful, unleash it like playing osu!
 * Update combo effect
 ...
 
-## Local Installation
-
-Download the latest release, open ide -> `file` -> `settings` -> `plugins` -> `install plugin from disk`
+## Installation
+1. [Osu! Mode](https://plugins.jetbrains.com/plugin/17810-osu-mode)
+2. Open ide and search for `Osu! Mode` in the `plugin marketplace`.
+3. Download the latest release zip, open ide -> `file` -> `settings` -> `plugins` -> `install plugin from disk`
 
 ## LICENSE
 
