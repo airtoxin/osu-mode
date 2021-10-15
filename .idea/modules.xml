@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/intellij-osu-mode.iml" filepath="$PROJECT_DIR$/intellij-osu-mode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/osu!-mode.iml" filepath="$PROJECT_DIR$/osu!-mode.iml" />
     </modules>
   </component>
 </project>

@@ -45,7 +45,7 @@ class Settings: BoundConfigurable(
             row {
                 cell {
                     label("Github:")
-                    browserLink("intellij osu mode plugin", "https://github.com/Nthily/intellij-osu-mode-plugin")
+                    browserLink("Osu! Mode", "https://github.com/Nthily/osu-mode")
                 }
             }
             row {
