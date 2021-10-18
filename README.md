@@ -2,7 +2,7 @@
 
 A plugin for Jetbrains IDE, Your code is powerful, unleash it like playing osu!
 
-<iframe frameborder="none" width="245px" height="48px" src="https://plugins.jetbrains.com/embeddable/install/17810"></iframe>
+<script src="https://plugins.jetbrains.com/assets/scripts/mp-widget.js"></script>
 
 ## Demo
 
