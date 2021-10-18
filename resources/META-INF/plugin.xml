@@ -1,7 +1,7 @@
 <idea-plugin>
   <id>com.github.nthily</id>
   <name>Osu! Mode</name>
-  <version>1.0</version>
+  <version>1.0.2</version>
   <vendor email="nthily@outlook.com" url="https://github.com/Nthily">Nthily</vendor>
 
   <description>
@@ -16,6 +16,10 @@
       </ul>
     ]]>
   </description>
+
+  <change-notes>
+    fix some typos
+  </change-notes>
 
   <!-- please see https://plugins.jetbrains.com/docs/intellij/build-number-ranges.html for description -->
   <idea-version since-build="203.5981.155"/>

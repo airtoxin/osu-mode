@@ -57,7 +57,7 @@ class Settings: BoundConfigurable(
             row {
                 cell {
                     label("Version:")
-                    label("1.0")
+                    label("1.0.2")
                 }
             }
         }
