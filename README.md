@@ -2,6 +2,8 @@
 
 A plugin for Jetbrains IDE, Your code is powerful, unleash it like playing osu!
 
+<iframe frameborder="none" width="245px" height="48px" src="https://plugins.jetbrains.com/embeddable/install/17810"></iframe>
+
 ## Demo
 
 https://user-images.githubusercontent.com/31311826/137478477-004d64e6-e233-42c7-a6e2-0d94b6af5acd.mp4
