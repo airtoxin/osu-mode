@@ -2,6 +2,12 @@
 
 A plugin for Jetbrains IDE, Your code is powerful, unleash it like playing osu!
 
+## Demo
+
+https://user-images.githubusercontent.com/31311826/137478477-004d64e6-e233-42c7-a6e2-0d94b6af5acd.mp4
+
+[Bilibili](https://www.bilibili.com/video/BV1j34y1S7xw?spm_id_from=333.999.0.0)
+
 ## Feature
 
 * open project / close project sound
